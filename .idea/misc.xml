@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/add_icon.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/arrow_down_icon.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/avatar_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/avatar_svgrepo_com__10_.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/avatar_svgrepo_com__1_.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/camera_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/discover_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/edit_icon.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/facebook_logo.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/flag_icon.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/groups_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/help_icon.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/home_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/ic_comments_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/ic_share_arrows_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/invite_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/like_gray_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/live_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/menu_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/messenger_icon.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/music_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/photo_icon.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/profile_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/room_icon.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/search_icon.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/settings_icon.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/share_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/slider_icon.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Konstantin/Desktop/Facebookclone/app/src/main/res/drawable/watch_icon.xml" value="0.10364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
